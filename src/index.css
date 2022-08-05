@@ -13,7 +13,7 @@ code {
 }
 html{
   scroll-behavior: smooth;
-  min-width: 480px;
+  min-width: 800px;
 
 }
 .scrollDiv{
