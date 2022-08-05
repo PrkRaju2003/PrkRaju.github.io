@@ -1,0 +1,45 @@
+.details{
+    margin: 0px 0px 0px 0px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(200, 191, 231);
+}
+h1{
+    font-size: 64px;
+    padding-left: 10px;
+    font-family: 'Abril Fatface', cursive;
+}
+.edu{
+    display:inline-table;
+    width: 90%;
+    border: 6px ;
+}
+
+.table-heading td{
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+    border: 6px;
+}
+.table-heading p{
+    font-family: 'Patua One', cursive;
+
+}
+.certi{
+    margin: 0px 0px 0px 0px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(255, 70, 85);
+    
+}
+.ctf{
+    display: inline;
+    flex-direction: column;
+    padding-left: 2%;
+    padding-right: 5%;
+    text-align: center;
+   
+}
+.ctf p{
+    font-family: 'Pacifico', cursive;
+}
