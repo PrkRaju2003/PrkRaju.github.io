@@ -1,5 +1,5 @@
 {
-  "main.css": "/resume/static/css/main.c82a97b0.chunk.css",
+  "main.css": "/resume/static/css/main.16db0df8.chunk.css",
   "main.js": "/resume/static/js/main.1eaf1953.chunk.js",
   "main.js.map": "/resume/static/js/main.1eaf1953.chunk.js.map",
   "runtime~main.js": "/resume/static/js/runtime~main.6e209624.js",
@@ -9,9 +9,9 @@
   "static/js/3.9881a070.chunk.js": "/resume/static/js/3.9881a070.chunk.js",
   "static/js/3.9881a070.chunk.js.map": "/resume/static/js/3.9881a070.chunk.js.map",
   "index.html": "/resume/index.html",
-  "precache-manifest.7ce960b3d0397a0308e7ac4424db7d94.js": "/resume/precache-manifest.7ce960b3d0397a0308e7ac4424db7d94.js",
+  "precache-manifest.ff4e1b1ae6abc1d0a2eccc8f5fe9e6eb.js": "/resume/precache-manifest.ff4e1b1ae6abc1d0a2eccc8f5fe9e6eb.js",
   "service-worker.js": "/resume/service-worker.js",
-  "static/css/main.c82a97b0.chunk.css.map": "/resume/static/css/main.c82a97b0.chunk.css.map",
+  "static/css/main.16db0df8.chunk.css.map": "/resume/static/css/main.16db0df8.chunk.css.map",
   "static/media/Breathe.jpg": "/resume/static/media/Breathe.be13da44.jpg",
   "static/media/kkr.png": "/resume/static/media/kkr.5db4ae71.png",
   "static/media/profilepic.jpg": "/resume/static/media/profilepic.931cde80.jpg",
